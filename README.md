@@ -5,7 +5,6 @@
 
 
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 Sparks Foundation Web Development Internship Project : 
 Basic Banking System website.
