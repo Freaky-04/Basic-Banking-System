@@ -1,6 +1,6 @@
-# Basic-Banking-System-GRIPSEPTEMBER21-
+# Basic-Banking-System
 
-# The-Spark-Foundation-GRIP  Task 1-Web Development
+# Task 1-Web Development
 ## BasicBankingSystem
 
 
