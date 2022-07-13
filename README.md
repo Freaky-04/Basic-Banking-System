@@ -33,3 +33,8 @@ The website has the following specification -
 Sparks Foundation Web Development Internship Project : Basic Banking System website. A web application used to tranfer virtual money between multiple users and also record the banking transactions/ activities.
 
 The video is available on youtube.
+
+## Sccreen Shots
+![home](https://user-images.githubusercontent.com/79204613/178748306-9d40e8c9-97d3-4a31-a8af-5a35004fb14c.png)
+
+
